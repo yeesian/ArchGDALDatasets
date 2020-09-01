@@ -1,0 +1,10 @@
+id,point,zoom,linestring,location
+5.1,"POINT (30 10)",1,"LINESTRING (30 10, 10 30, 40 40)",Mumbai
+5.2,"POINT (35 15)",2,"LINESTRING (35 15, 15 35, 45 45)",New Delhi
+5.3,,3,"LINESTRING (70 20, 45 59, 22 37)",missing
+5.4,"POINT (5 1)",missing,"LINESTRING (46 36, 52 24, 43 81)",Goa
+5.5,"POINT (3 0)",5,,Kolkata
+missing,"POINT (2 15)",6,"LINESTRING (47 22, 1 3, 21 69)",Chennai
+5.7,,7,"LINESTRING (7 8, 61 30, 4 5)",missing
+5.8,"POINT (25 54)",missing,"LINESTRING (31 98, 45 30, 10 23)",missing
+5.9,"POINT (5 15)",5,,Shimla
